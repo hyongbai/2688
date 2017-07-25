@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.huajiao.camera",
+    "sha256_cert_fingerprints": ["C5:EE:1E:3F:E8:B8:E3:20:AC:82:9E:8A:6E:78:C0:97:01:73:3E:EE:2A:62:C0:9D:FA:64:91:86:19:FD:5A:47"]
+  }
+}]
